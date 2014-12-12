@@ -2,8 +2,5 @@ Add note 1
 Add note2
 Add note3
 Add note 4
-<<<<<<< HEAD
 Add note 5
 Add note 6
-=======
->>>>>>> parent of d3c69a3... Add third note
